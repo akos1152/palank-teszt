@@ -1,2 +1,2 @@
-# palank-teszt_1
+# palank-teszt
 tesztelésre készített tároló
